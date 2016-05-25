@@ -1,0 +1,6 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\bin\Debug\WorkingWithArraysSolo.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\bin\Debug\WorkingWithArraysSolo.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\bin\Debug\WorkingWithArraysSolo.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\obj\Debug\WorkingWithArraysSolo.csprojResolveAssemblyReference.cache
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\obj\Debug\WorkingWithArraysSolo.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithArraysSolo\WorkingWithArraysSolo\obj\Debug\WorkingWithArraysSolo.pdb
